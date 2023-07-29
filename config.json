@@ -1,0 +1,135 @@
+{
+  "Hotkeys": [
+    {
+      "Action": "TeleportToWaypoint",
+      "VirtualKey": 117
+    },
+    {
+      "Action": "HealAll",
+      "VirtualKey": 118
+    },
+    {
+      "Action": "ToggleWantedLevel",
+      "VirtualKey": 119
+    },
+    {
+      "Action": "TeleportToObjective",
+      "VirtualKey": 121
+    }
+  ],
+  "Menu": {
+    "BackgroundColor": "FFD60A",
+    "FontName": "Segoe UI Semibold",
+    "ItemColor": "003566",
+    "ItemHeight": 25,
+    "ItemSpacing": 3,
+    "ItemWidth": 400,
+    "KeyBindings": {
+      "BackKey": 96,
+      "DownKey": 98,
+      "LeftKey": 100,
+      "MenuToggle": 192,
+      "RightKey": 102,
+      "SelectKey": 101,
+      "UpKey": 104
+    },
+    "Opacity": 170,
+    "SelectedItemColor": "FFD60A",
+    "SelectedTextColor": "003566",
+    "TextColor": "FFFFFF",
+    "TransparencyColorKey": "000000",
+    "ViewableItems": 50,
+    "XPosition": 240,
+    "YPosition": 40
+  },
+  "PlayerOptions": {
+    "AquaLungs": true,
+    "EveryoneIgnore": false,
+    "FreezeWantedLevel": false,
+    "GodMode": true,
+    "HealthBoost": "BulletProof",
+    "NeverWanted": true,
+    "NoRagdoll": true,
+    "PoliceIgnore": true,
+    "RunSpeed": 1.500000,
+    "SeatbeltEnabled": false,
+    "SwimSpeed": 2.000000,
+    "Waterproof": true
+  },
+  "Protection": {
+    "DisableCameraControl": true,
+    "DisableSendToIsland": true,
+    "DisableSendToJob": true,
+    "DisableTeleportToApartment": true,
+    "DisableVehicleKick": true,
+    "DisableWeatherControl": true,
+    "NoAlterStats": true,
+    "NoAlterWantedLevel": true,
+    "NoForceKickToSP": true,
+    "NoFreeze": true,
+    "NoPTFX": true,
+    "NoRemoteControl": true,
+    "NoRemoteRagdoll": true,
+    "NoRemoteSound": true,
+    "NoRemoteTeleport": true,
+    "NoRemoveAllWeapons": true,
+    "NoRemoveWeapon": true,
+    "RemoteStatProtection": true
+  },
+  "Services": {
+    "MutePhonecalls": true
+  },
+  "Tunables": {
+    "APMultiplier": 2.000000,
+    "DisableOutOfBoundsDeath": true,
+    "ExtendBunkerTimers": false,
+    "ExtendExportTimers": false,
+    "ExtendMCTimers": false,
+    "ExtendNightclubTimers": false,
+    "HeadToHeadMultiplier": 1.000000,
+    "LSCarMeetMultiplier": 1.000000,
+    "LSCarMeetTrackMultiplier": 1.000000,
+    "MinMissionPayout": 0.000000,
+    "NoIdleAFK": true,
+    "PursuitRaceMultiplier": 1.000000,
+    "RPMultiplier": 1.000000,
+    "RemoveBunkerSupplyDelay": false,
+    "RemoveCratesCooldown": false,
+    "RemoveEWOCooldown": false,
+    "RemoveFreemodeMissionCooldown": false,
+    "RemoveIECooldown": false,
+    "RemoveMCSupplyDelay": false,
+    "RemoveMissionTimeThrottling": false,
+    "RemoveNightclubCooldown": false,
+    "RemoveOppressorCooldown": false,
+    "RemoveOrbitalCooldown": false,
+    "RemovePassiveModeCooldown": false,
+    "RemovePayphoneCooldown": false,
+    "RemoveVehicleDeliveryDelay": false,
+    "ScrambleMultiplier": 1.000000,
+    "StreetRaceMultiplier": 1.000000,
+    "UnlockAllResearch": false,
+    "UnlockAllVehicles": false,
+    "WheelAPReward": 0,
+    "WheelMoneyReward": 0,
+    "WheelRPReward": 0
+  },
+  "Vehicle": {
+    "BoostAutoRecharge": true,
+    "DisableRestore": false,
+    "FreezeAmmo": false,
+    "InfiniteBoost": false,
+    "MaxSpeed": 0.000000,
+    "Untargetable": true
+  },
+  "Weapons": {
+    "DisableRestore": true,
+    "FreezeAmmo": true,
+    "InfiniteAmmo": true,
+    "InfiniteClip": true,
+    "LongRange": true,
+    "NoRecoil": true,
+    "NoReload": true,
+    "NoSpread": true
+  }
+}
