@@ -1,4 +1,4 @@
 @echo off
-    start "" "D:\SteamLibrary\steamapps\common\Grand Theft Auto V\PLAYGTAV.exe"
-    timeout /t 10
+    start/B "" "steam://rungameid/271590"
+    timeout /t 60
     start "" "D:\SteamLibrary\modest-menu_v0.9.10\modest-menu.exe"
